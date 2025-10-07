@@ -6,7 +6,7 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
   I am a 2nd Year undergraduate student at <a href="https://theoxford.edu/engineering/"><b>The Oxford College of Engineering, Affiliated to VTU</b></a>, Bengaluru. From early on, I found myself quietly drawn to the world of technology—its logic, its mystery, and its power to shape stories. This love has helped me cultivate a thoughtful engineering mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, blending curiosity with creativity. I believe that every insight is a stepping stone, and no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"/> is ever truly enough.
 
 
-## Ask me about : Computer: 
+## Ask me about : :computer: 
 - **Competitive Programming**
 	- Python ❤️
 	- C++
@@ -139,8 +139,7 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 </p>
 
 *** 
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
-<br/>
+
 <p>
 
 Visit my profile and give a ⭐️ if you like it</p>
