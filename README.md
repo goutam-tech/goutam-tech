@@ -5,7 +5,6 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 ## About :
   I am a 2nd Year undergraduate student at <a href="https://theoxford.edu/engineering/"><b>The Oxford College of Engineering, Affiliated to VTU</b></a>, Bengaluru. From early on, I found myself quietly drawn to the world of technology—its logic, its mystery, and its power to shape stories. This love has helped me cultivate a thoughtful engineering mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, blending curiosity with creativity. I believe that every insight is a stepping stone, and no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"/> is ever truly enough.
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## Ask me about : Computer: 
 - **Competitive Programming**
@@ -13,7 +12,7 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 	- C++
 	- Some Java
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -62,6 +61,10 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 <code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" /></code>
 
 </div>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+***
 
 ## 🌱 I’m currently learning ...
 - **GEN AI**
