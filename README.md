@@ -1,6 +1,7 @@
-![!Python-Developer](backgorund.jpg)
+![!ASP.NET & ML Developer ](backgorund.jpg)
 
-Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ꜰᴀʟᴄᴏɴ & ꜰᴀꜱᴛAPI | Tᴇɴꜱᴏʀғʟᴏᴡ || 【P】【y】【t】【h】【o】【n】
+# Goutam Parashuram Gotur
+Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ASP.NET Core | Competitive Programming (C/C++) |
 
 ## About :
   I am a 2nd Year undergraduate student at <a href="https://theoxford.edu/engineering/"><b>The Oxford College of Engineering, Affiliated to VTU</b></a>, Bengaluru. From early on, I found myself quietly drawn to the world of technology—its logic, its mystery, and its power to shape stories. This love has helped me cultivate a thoughtful engineering mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, blending curiosity with creativity. I believe that every insight is a stepping stone, and no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"/> is ever truly enough.
@@ -8,19 +9,23 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 
 ## Ask me about : :computer: 
 - **Competitive Programming**
-	- Python ❤️
+	- C 
 	- C++
-	- Some Java
+  	- C#
+	- Python
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
+	- ASP.NET Core (C#) :white_check_mark:
+	- FastAPI (Python ML apps)
 	- React :electron:
-	- PostgreSQL
-  - NodeJS  
-- **Shell Scripting**
+  	- NodeJS
+- **Machine Learning**
+ 	- Scikit-learn
+  	- ML webapps with Falcon & FastAPI
+ 
+ - **Shell Scripting**
 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -29,39 +34,28 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 
-## Tech stack
+---
 
-<div align = "center">
+## 🛠 Tech Stack
 
 **Languages & Libraries**
-
-<code><img height="50" width="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow Logo" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Qiskit_logo.svg/800px-Qiskit_logo.svg.png" alt="Qiskit Logo" /></code>
-
-</div>
-<div align = "center">
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 
 **Databases**
-
-<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" /></code>
-
-</div>
-
-<div align = "center">
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 
 **Frameworks & Tools**
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.svg"></code>
 
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/800px-Django_logo.svg.png" /></code>
-<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" /></code>
-
-</div>
-
+---
 ***
 
 <div align="center">
@@ -71,8 +65,8 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps w
 ***
 
 ## 🌱 I’m currently learning ...
-- **GEN AI**
-- **AI & ML**
+- Generative AI  
+- Advanced ASP.NET Core features  
 <br/>
   <br/>
 
