@@ -110,27 +110,31 @@ Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ASP.NET Core | Competitive Programming (C/C
 
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/goutam-tech" height="33px" /></h3> 
+<h3 align="center">Connect with me</h3>
 </div>
 
-## Links: 
+
+
+## Links:
 <p align="center">
- <a href="https://www.linkedin.com/in/goutam-parashuram-gotur/" target="blank">
-  <img align="center" alt="Goutam's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <!-- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a> -->
- <a href="https://x.com/goutampgotur" target="blank">
-  <img align="center" alt="Goutam's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
-  <br/>
-  <br/>
-<p align="center">
+  <a href="https://www.linkedin.com/in/goutam-parashuram-gotur/" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Goutam's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/goutampgotur" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Goutam's X profile" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+  <br/><br/>
   <b>Thank you for wandering through my digital garden 🌱</b><br/>
   <em>May your ideas bloom, your code whisper gently, and your journey echo with quiet brilliance.</em> 🌌
 </p>
-</p>
+
+***
+
+<p>Visit my profile and give a ⭐️ if you like it</p>
+
+⭐️ From [goutam-tech](https://github.com/goutam-tech)
+
 
 *** 
 
